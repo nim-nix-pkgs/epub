@@ -11,7 +11,6 @@
   inputs.src-epub-master.ref   = "refs/heads/master";
   inputs.src-epub-master.owner = "achesak";
   inputs.src-epub-master.repo  = "nim-epub";
-  inputs.src-epub-master.dir   = "";
   inputs.src-epub-master.type  = "github";
   
   inputs."nim>=".owner = "nim-nix-pkgs";
