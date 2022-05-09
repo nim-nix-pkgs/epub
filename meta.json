@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-epub",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-epub/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/achesak/nim-epub/': Couldn't connect to server",
     ""
   ],
   "heads": []
