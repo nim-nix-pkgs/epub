@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-epub",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-epub/': Couldn't connect to server",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "epub",
+      "version": "0.1",
+      "author": "Adam Chesak",
+      "desc": "Module for working with EPUB e-book files",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim>=",
+          "str": "0.10.2",
+          "ver": {
+            "kind": "verEq",
+            "ver": "0.10.2"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
